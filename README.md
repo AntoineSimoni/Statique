@@ -4,7 +4,7 @@
 
 Le but de se projet est de convertir un fichier sous format markdown en format html en gardant les modifications de texte (exemple un titre en ```mardown = # ``` et en ```html = <h1>Titre</h1> ```)
 
-##Installation rapide :
+## Installation rapide :
 
 Pour commencer il faut installer les librairies, tout est indiqué dans le doc nécéssaire.txt
 
